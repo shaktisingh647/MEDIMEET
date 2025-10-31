@@ -7,7 +7,8 @@ const Header = () => {
         <Link href="/">
          <Image src="/logo.png" alt="MEDI-MEET" width={200} height={60} className={"h-10 w-auto object-contain"}/>
         </Link>
-        
+        <h1>MediMett</h1>
+        <h1>Boxsam Medimeet</h1>
     </nav>
   </header>
 }
