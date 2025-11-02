@@ -5,7 +5,7 @@ export default function Home() {
     
     <div className="py-32">
       <Button>Click me</Button>
-      <h1>new navi</h1>
+      
     </div>
   );
 }
