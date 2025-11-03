@@ -7,15 +7,6 @@ const Header = () => {
         <Link href="/">
          <Image src="/logo.png" alt="MEDI-MEET" width={200} height={60} className={"h-10 w-auto object-contain"}/>
         </Link>
-         <Link href="/">
-         <Image src="/logo.png" alt="MEDI-MEET" width={200} height={60} className={"h-10 w-auto object-contain"}/>
-        </Link>
-         <Link href="/">
-         <Image src="/logo.png" alt="MEDI-MEET" width={200} height={60} className={"h-10 w-auto object-contain"}/>
-        </Link>
-         <Link href="/">
-         <Image src="/logo.png" alt="MEDI-MEET" width={200} height={60} className={"h-10 w-auto object-contain"}/>
-        </Link>
          
     </nav>
   </header>
